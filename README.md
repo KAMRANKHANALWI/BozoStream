@@ -6,16 +6,27 @@
 
 ## 📌 Overview
 
-BozoBot is an AI chatbot designed for intuitive and real-time interactions. Using **LangChain**, it efficiently manages chat history, enabling context-aware responses across multiple conversations. The **Streamlit-based frontend** ensures a clean and interactive UI for seamless user engagement.
+BozoStream is an AI chatbot designed for intuitive and real-time interactions. Using **LangChain**, it efficiently manages chat history, enabling context-aware responses across multiple conversations. The **Streamlit-based frontend** ensures a clean and interactive UI for seamless user engagement.
 
 ### 🎯 **Key Features**
 
-✅ **LLM-Powered Chat** – Uses Groq's Llama-3.3-70B for AI-driven responses.
-✅ **Multi-Session Support** – Allows users to maintain multiple chats with historical context.
-✅ **Context-Aware Responses** – Utilizes LangChain to track and process conversation history.
-✅ **Streamlit UI** – Simple, clean, and responsive chat interface.
-✅ **API Key Integration** – Securely loads API credentials using dotenv.
-✅ **Low-Latency Inference** – Optimized for real-time responses with efficient query processing.
+✅ **LLM-Powered Chat**  
+Uses Groq's Llama-3.3-70B for AI-driven responses.
+
+✅ **Multi-Session Support**  
+Allows users to maintain multiple chats with historical context.
+
+✅ **Context-Aware Responses**  
+Utilizes LangChain to track and process conversation history.
+
+✅ **Streamlit UI**  
+Simple, clean, and responsive chat interface.
+
+✅ **API Key Integration**  
+Securely loads API credentials using dotenv.
+
+✅ **Low-Latency Inference**  
+Optimized for real-time responses with efficient query processing.
 
 ---
 
@@ -24,7 +35,7 @@ BozoBot is an AI chatbot designed for intuitive and real-time interactions. Usin
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bozobot-streamlit.git
+git clone https://github.com/KAMRANKHANALWI/BozoStream.git
 cd bozobot-streamlit
 ```
 
@@ -134,12 +145,6 @@ docker run -p 8501:8501 bozobot
 3. Commit your changes.
 4. Push to your branch.
 5. Open a Pull Request.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. Feel free to use and modify it!
 
 ---
 
