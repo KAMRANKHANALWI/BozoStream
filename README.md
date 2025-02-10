@@ -36,7 +36,6 @@ Optimized for real-time responses with efficient query processing.
 
 ```bash
 git clone https://github.com/KAMRANKHANALWI/BozoStream.git
-cd bozobot-streamlit
 ```
 
 ### 2️⃣ Create a Virtual Environment
